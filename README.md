@@ -67,6 +67,8 @@ The Dobermann breed was chosen as the heart and soul of this project out of love
 | 75%             | Development/Operational Costs         |
 | 100%            | **Total**                             |
 
+Read about the Community Wallet [here](#community-wallet).
+
 ## Woofonomics
 
 ### Community Wallet
