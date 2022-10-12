@@ -13,7 +13,7 @@
         - [Metaverse](#metaverse)
     - [Foster Protocol](#foster-protocol)
         - [Dobe Poo](#dobe-poo)
-    - [Boarding (Staking)](#boarding-staking))
+    - [Boarding (Staking)](#boarding-staking)
         - [Marketplace](#marketplace)
         - [Community Wallet Vote](#community-wallet-vote)
 6. [Future Plans](#future-plans)
