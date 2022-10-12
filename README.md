@@ -24,8 +24,8 @@ Dope Dobes Mafia is an NFT (non-fungible token) collection of 9,999+ 3D pieces o
 
 Each Dobe is completely unique and randomly generated using 7 properties/traits that create rarity: 
 
-| Trait       | Styles    | Variations                                            |
-| ----------- | --------- | ----------------------------------------------------- |
+| Traits      | Styles    | Variations                                            |
+| :---------- | :-------: | :---------------------------------------------------- |
 | Fur         |     1     | Black, Brown, Blue, Pink, Red                         |
 | Eyes        |     1     | Grey, Brown, Blue, Green, Purple, Red, Yellow         |
 | Upper Body  |     3     | Grey, Blue, Green, Orange, Purple, Red, Yellow, None  |
@@ -60,11 +60,12 @@ The Dobermann breed was chosen as the heart and soul of this project out of love
 
 ## Where does my money go?
 
-6.25% - Donated to no-kill dog shelters around the United States
-
-18.75% - Community wallet
-
-75% - Development/Operational Costs
+| % of Revenue    | Allocation                            |
+| :-------------- | :------------------------------------ |
+| 6.25%           | Donated to no-kill dog shelters       |      
+| 18.75%          | Community wallet                      |
+| 75%             | Development/Operational Costs         |
+| 100%            | **Total**                             |
 
 ## Woofonomics
 
