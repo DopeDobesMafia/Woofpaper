@@ -10,10 +10,10 @@
     - [The Game](#the-game) 
     - [Metaverse](#metaverse)
     - [Foster Protocol](#foster-protocol)
-     - [Dobe Poo](#dobe-poo)
+        - [Dobe Poo](#dobe-poo)
     - [Boarding (Staking)](#boarding-(staking))
-     - [Marketplace](#marketplace)
-     - [Community Wallet Vote](#community-wallet-vote)
+        - [Marketplace](#marketplace)
+        - [Community Wallet Vote](#community-wallet-vote)
 6. [How to Adopt a Dobe](#how-to-adopt-a-dobe)
 7. [Future Plans](#future-plans)
 
@@ -59,7 +59,9 @@ The Dobermann breed was chosen as the heart and soul of this project out of love
 ## Where does my money go?
 
 6.25% - Donated to no-kill dog shelters around the United States
+
 18.75% - Community wallet
+
 75% - Development/Operational Costs
 
 ## Woofonomics
@@ -90,11 +92,9 @@ Dobe Poo is a separate NFT collection of 2D poo that is simulates real dog doo-d
 
 The Marketplace is a page on our website where "treats" earned through staking can be redeemed for physical merchandise. The Marketplace is periodically stocked with items including, but not limited to: limited apparel from Dope Dobes Mafia and partners; Dog toys, food, and accessories; NFTs from the community; and much more. As the Dope Dobes Mafia collection accrues revenue, a percentage will be allocated to stocking the Marketplace to continually provide the opportunity for holders to obtain exclusive merchandise. 
 
-### Community Wallet Vote
+#### Community Wallet Vote
 
 Holders who are currently boarding are eligible to vote on where the community wallet's funds are allocated. Holders are also able to suggest options to be included in the vote.
-
-## How to Adopt a Dobe
 
 ## Future Plans
 
