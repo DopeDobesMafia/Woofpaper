@@ -14,7 +14,6 @@
     - [Boarding (Staking)](#boarding-(staking))
         - [Marketplace](#marketplace)
         - [Community Wallet Vote](#community-wallet-vote)
-7. [Future Plans](#future-plans)
 
 ---
 
@@ -94,8 +93,6 @@ The Marketplace is a page on our website where "treats" earned through staking c
 #### Community Wallet Vote
 
 Holders who are currently boarding are eligible to vote on where the community wallet's funds are allocated. Holders are also able to suggest options to be included in the vote.
-
-## Future Plans
 
 
 
