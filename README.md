@@ -31,6 +31,16 @@ Each Dobe is completely unique and randomly generated using 7 properties/traits 
 - Background (6 background colors)
 - Print (1 rare print)
 
+| Trait       | Styles    | Variations                                            |
+| ----------- | --------- | ----------------------------------------------------- |
+| Fur         |     1     | Black, Brown, Blue, Pink, Red                         |
+| Eyes        |     1     | Grey, Brown, Blue, Green, Purple, Red, Yellow         |
+| Upper Body  |     3     | Grey, Blue, Green, Orange, Purple, Red, Yellow, None  |
+| Chain       |     3     | Gold, Silver, Black, None                             |
+| Jewlery     |     6     | Gold, Silver Black, None                              |
+| Background  |     6     | Black, Blue, Green, Orange, Purple, Red               |
+| Print       |     2     | DDM Logo, None                                        |
+
 You can use your Dobe to race digitally for rewards, to use as your character in future metaverse games, and/or just collect to see the value grow. Dope Dobes Mafia also has future plans to host exclusive IRL entertainment events, drop merchandise such as apparel and dog accessories with our partners, and much more. 
 
 Get all the details by reading through the rest of this Woofpaper and/or by visiting our website at [https://dopedobesmafia.com/](https://dopedobesmafia.com/).
@@ -111,7 +121,7 @@ Holders who are currently boarding are eligible to vote on where the community w
 
 ## Future Plans
 
-Percentages below are based of % of Male Dobes minted.
+Percentages below are based off % of Male Dobes minted.
 
 20% Minted - Exclusive giveaway to VIPs (Very Important Pups)
 
