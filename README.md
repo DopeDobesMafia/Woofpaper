@@ -14,7 +14,6 @@
     - [Boarding (Staking)](#boarding-(staking))
         - [Marketplace](#marketplace)
         - [Community Wallet Vote](#community-wallet-vote)
-6. [How to Adopt a Dobe](#how-to-adopt-a-dobe)
 7. [Future Plans](#future-plans)
 
 ---
