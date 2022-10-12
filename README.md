@@ -2,15 +2,20 @@
 
 ## Table of Contents
 1. [What is Dope Dobes Mafia?](#what-is-dope-dobes-mafia)
-2. [Why the Dobermann breed?](#why-the-dobermann-breed)
-3. [Woofonomics](#woofonomics)
+2. [How do I purchase?](#how-do-i-purchase)
+3. [Why the Dobermann breed?](#why-the-dobermann-breed)
+4. [Where does my money go?](#where-does-my-money-go)
+5. [Woofonomics](#woofonomics)
+    - [Community Wallet](#community-wallet)
     - [The Game](#the-game) 
     - [Metaverse](#metaverse)
     - [Foster Protocol](#foster-protocol)
+     - [Dobe Poo](#dobe-poo)
     - [Boarding (Staking)](#boarding-(staking))
-    - [Marketplace](#marketplace)
-5. [How to Adopt a Dobe](#how-to-adopt-a-dobe)
-6. [Future Plans](#future-plans)
+     - [Marketplace](#marketplace)
+     - [Community Wallet Vote](#community-wallet-vote)
+6. [How to Adopt a Dobe](#how-to-adopt-a-dobe)
+7. [Future Plans](#future-plans)
 
 ---
 
