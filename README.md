@@ -14,6 +14,7 @@
     - [Boarding (Staking)](#boarding-(staking))
         - [Marketplace](#marketplace)
         - [Community Wallet Vote](#community-wallet-vote)
+6. [Future Plans](#future-plans)
 
 ---
 
@@ -70,9 +71,23 @@ The Community Wallet is a separate MetaMask wallet hard-coded into the smart con
 
 ### The Game
 
+A main deliverable of the Dope Dobes Mafia project is to provide a game where holders can race their digital Dobe for rewards. A holder will purchase the required RaceKit that will randomly generate their Dobe's base stats with 100/500 possible stat amounts. Through various engaging activites, holders of a RaceKit can increase their Dobe's stats. However, the scoring algorith does account for the underdog but higher stats will give Dobes a higher probability of winning. 
+
 #### RaceTrack
 
-#### Metaverse
+The RaceTrack will consist 3 versions: 
+
+##### Beta (Free to race and earn giveaways)
+
+The Beta version will allow holders to register for races for FREE via the Dope Dobes Mafia website but will NOT include a real-time viewing experience. Racers will be required to view the race via discord stream and must be present in the corresponding Twitter Space to participate/win the reward.
+
+##### V1 (Requires RaceKit)
+
+The RaceTrack V1 will require the purchase of an additional NFT (RaceKit) made available for mint via the Dope Dobes Mafia website. The RaceKit will contain a set of randomly generated stats (100 out of the 500 total stat points possible) and can be assigned to a single Dobe at a time using the function on the RaceKit smart contract (assigning a Dobe will also be available the website). This functionality allows for the sale of a RaceKit independent of a Dobe. 
+
+##### Metaverse
+
+The Metaverse is the final version of the RaceTrack and will include an open-world experience for Dobe holders to engage with the community, show-off their collection of Dobe accessories, and much more TBA. 
 
 ### Foster Protocol
 
@@ -93,6 +108,8 @@ The Marketplace is a page on our website where "treats" earned through staking c
 #### Community Wallet Vote
 
 Holders who are currently boarding are eligible to vote on where the community wallet's funds are allocated. Holders are also able to suggest options to be included in the vote.
+
+## Future Plans
 
 
 
