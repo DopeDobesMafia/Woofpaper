@@ -111,5 +111,14 @@ Holders who are currently boarding are eligible to vote on where the community w
 
 ## Future Plans
 
+Percentages below are based of % of Male Dobes minted.
+
+20% Minted - Exclusive giveaway to VIPs (Very Important Pups)
+
+50% Minted - Reveal 3,333 Female Dobes
+
+75% Minted - Exclusive giveaway for ALL holders
+
+100% Minted - Unlock Breeding and Reveal 3,333 Pups
 
 
