@@ -23,13 +23,6 @@
 Dope Dobes Mafia is an NFT (non-fungible token) collection of 9,999+ 3D pieces of digital art that come with real-world benefits and future game applications. You can think of them almost as a digital trading card like the carboard sports trading cards that have been around since the 1860s. However, these digital assets can be built upon using new blockchain and Web3 technology to increase the value.
 
 Each Dobe is completely unique and randomly generated using 7 properties/traits that create rarity: 
-- Fur (5 colors of fur)
-- Eyes (7 eye colors)
-- Upper Body (7 colors of 3 style variations - shirt, collared shirt, hoodie)
-- Chain (3 colors and styles of necklaces)
-- Jewlery (3 colors of various earings and nose rings)
-- Background (6 background colors)
-- Print (1 rare print)
 
 | Trait       | Styles    | Variations                                            |
 | ----------- | --------- | ----------------------------------------------------- |
