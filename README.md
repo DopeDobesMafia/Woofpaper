@@ -42,13 +42,13 @@ Get all the details by reading through the rest of this Woofpaper and/or by visi
 
 ## How do I purchase?
 
-The Dope Dobes Mafia NFTs live on the Ethereum Blockchain and are "minted". To mint means to publish a completely unique digital asset to the blockchain adopted (we use "adopt" to align with our brand but the industry term is "mint", which means the same as "purchase") on our website [here](https://dopedobesmafia.com/mint.php).
+The Dope Dobes Mafia NFTs live on the Ethereum Blockchain and are "minted". To mint means to publish a completely unique digital asset to the blockchain (we use "adopt" to align with our brand but the industry term is "mint", which means the same as "purchase"). Minting can be done on our website [here](https://dopedobesmafia.com/mint.php).
 
 Cost: **0.07 ETH**
 
 1. Create a MetaMask wallet using the mobile app or an internet browser
 2. Add Ethereum (crypto currency) to your wallet by purchasing through an exchange (Ex. Moonpay)
-3. Navigate to [https://dopedobesmafia.com/mint.php](https://dopedobesmafia.com/mint.php)
+3. In the MetaMask app's browser, navigate to [https://dopedobesmafia.com/mint.php](https://dopedobesmafia.com/mint.php)
 4. MetaMask will automatically open, be sure to connect your wallet
 5. Enter in the quantity of NFTs you'd like to purchase
 6. Click "Adopt"
