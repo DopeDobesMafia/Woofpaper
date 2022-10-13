@@ -101,7 +101,7 @@ The Foster Protocol is simply the idea of watching for neglectful owners listing
 
 #### Dobe Poo
 
-Dobe Poo is a separate NFT collection of 2D poo that is simulates real dog doo-doo and it is NOT a bad thing! Because a holder has swept a Dobe off the floor, that increases the value of the collection and in return should be rewarded. Rank your Dobe Poo up to level 50 using NFT Scribe and you will be rewarded an additional Dope Dobes Mafia NFT for FREE.
+Dobe Poo is a separate NFT collection of 2D poo that simulates real dog doo-doo and it is NOT a bad thing! Because a holder has swept a Dobe off the floor, that increases the value of the collection and in return should be rewarded. Rank your Dobe Poo up to level 50 using NFT Scribe and you will be rewarded an additional Dope Dobes Mafia NFT for FREE.
 
 ### Boarding (Staking)
 
